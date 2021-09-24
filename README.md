@@ -6,4 +6,4 @@ The purpose of this project is to provide a simple overview of how Python data v
 
 The dataset in question contains information about features of forested areas. The data includes numerical variables (distance to XXX feature) as well as categorical variables (soil type, tree cover type).
 
-Through 7 data visualization tenchniques, we will drive understanding of this data and the trends that underlie it.
+Through 7 data visualization techniques, we will drive understanding of this data and the trends that underlie it.
